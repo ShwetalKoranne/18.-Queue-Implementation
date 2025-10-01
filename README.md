@@ -1,9 +1,8 @@
 # 18.-Queue-Implementation
 
-# Queue-in-Cpp  
+Aim: To study and implement Queues in CPP.
 
-Aim: To study the concept of **Queue** in C++ and implement enqueue, dequeue, and display operations.  
-
+Tools Used: VS Code or Programiz online compiler.
 
 
 # Theory  
